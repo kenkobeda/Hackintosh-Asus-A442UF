@@ -7,7 +7,7 @@
 ![sonoma](./Screenshot/sonoma.png)
 
 ## Works
-- sonoma v14.7.2
+- sonoma v14.7.4
 - Bluetooth Ok
 - No internal Wifi but ( using dongle tp-link acher T3u Plus) => Install https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/tag/V17 first
 - Brightness Ok
